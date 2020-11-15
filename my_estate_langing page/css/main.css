@@ -1,0 +1,65 @@
+    * {
+        font-family: 'Segoe UI', Arial;
+        position: relative;
+        /* overflow: auto; */
+    }
+    
+    .bg--cover {
+        background: url("../img/UI/组 6.png")#F2F0F0 no-repeat center bottom;
+        background-size: cover;
+    }
+    
+    .head {
+        vertical-align: middle;
+    }
+    
+    .header {
+        display: inline-block;
+        margin-left: 15px;
+    }
+    
+    .img {
+        display: inline-block;
+    }
+    
+    .headfont {
+        font-weight: bold;
+        font-size: 50px;
+        color: #2C405E;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    
+    .slogan {
+        font-size: 40px;
+        color: #2c405e;
+        font-weight: bold;
+        margin: 0;
+    }
+    
+    .functions {
+        margin-top: 35px;
+        box-sizing: border-box;
+    }
+    
+    .functions img {
+        margin-right: 10px;
+    }
+    
+    .badges {
+        margin-top: 35px;
+    }
+    
+    .google {
+        width: 200px;
+    }
+    
+    .apple {
+        height: 52px;
+        margin-bottom: 12.5px;
+    }
+    
+    .screen {
+        margin-top: 0;
+        z-index: 15;
+    }
